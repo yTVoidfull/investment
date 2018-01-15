@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GraweInvestmentCalculator</string>
+    <string name="age">Age:</string>
+    <string name="amount">Amount:</string>
+    <string name="period">Period:</string>
+    <string name="calculate">Calculate</string>
+
+    <string-array name="deposit_array">
+        <item>Omnia</item>
+        <item>Start</item>
+    </string-array>
+
+</resources>

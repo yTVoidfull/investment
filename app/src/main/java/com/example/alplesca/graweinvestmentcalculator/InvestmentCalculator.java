@@ -2,6 +2,7 @@ package com.example.alplesca.graweinvestmentcalculator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.EditText;
 
 public class InvestmentCalculator extends AppCompatActivity {
@@ -9,6 +10,7 @@ public class InvestmentCalculator extends AppCompatActivity {
     EditText age;
     EditText amount;
     EditText period;
+    Button buttonCreate;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,5 +20,6 @@ public class InvestmentCalculator extends AppCompatActivity {
         age = findViewById(R.id.ageInput);
         amount = findViewById(R.id.amountInput);
         period = findViewById(R.id.periodInput);
+        buttonCreate = findViewById(R.id.buttonCommonCalculate);
     }
 }

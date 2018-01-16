@@ -9,5 +9,8 @@
         <item>Omnia</item>
         <item>Start</item>
     </string-array>
+    
+    <string name="expectedReturnAmount">Expected return:</string>
+    <string name="singleInvestmentAmount">Single investment amount:</string>
 
 </resources>

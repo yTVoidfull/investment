@@ -4,8 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:parentTag="com.example.alplesca.graweinvestmentcalculator.CommonCalculateButton"
     android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_gravity="bottom|center_horizontal">
+    android:layout_height="wrap_content">
 
     <Button
         android:id="@+id/buttonCommonCalculate"
